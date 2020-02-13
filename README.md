@@ -1,8 +1,8 @@
 # Agricultural-Automation-Projects
-Author: Rayne Milner
+Projects for the course EBS 289k: Sensors and Actuators in Agricultural Automation
+Author: Rayne Milner, Stavros Vougioukas
 
 Contact: rmmilner@ucdavis.edu
-Projects for the course EBS 289k: Sensors and Actuators in Agricultural Automation
 
 Files: 
 
